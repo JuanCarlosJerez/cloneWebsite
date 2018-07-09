@@ -1,0 +1,117 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
+
+body{
+    font-size: 62.5%;
+    display: inline;
+}
+
+/*body[data-aos-duration='4000'] [data-aos],
+  [data-aos][data-aos][data-aos-duration='4000'] {
+    transition-duration: 4000ms;
+  }*/
+
+
+
+#navbar {
+  background-color: #1c1e26;
+}
+
+.navbartext{
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  margin-left: 65rem;
+  font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 300;
+}
+
+
+
+.vctbox-page{
+  margin: auto;
+  width: -1%;
+  border: 3px;
+  padding: 415px;
+  background: #1c1e26;
+  overflow: hidden;
+  width: 100%;
+}
+
+.firstimg{
+  position: relative;
+  margin-left: 11rem;
+}
+
+
+.uiux-page{
+  margin-top: 5rem;
+  margin-left: 0rem;
+  font-size: 1.5rem;
+  background-color: white;
+  width: 100%;
+  font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 300;
+}
+
+.paragraph1{
+  color:#626262;
+  padding: 2rem;
+  width: 35rem;
+}
+
+
+.uiux-title{
+  margin-bottom: 2rem;
+  padding-left: 5rem;
+  padding-top: 8rem;
+}
+
+
+.geoshape{
+  margin-left: 40rem;
+  margin-top: -145px;
+  position: relative;
+  bottom: 290px;
+}
+
+.frontend-page{
+  margin-top: 5rem;
+  margin-left: 0rem;
+  font-size: 1.5rem;
+  background-color: #fafafa;
+  width: 100%;
+  font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 300;
+}
+
+.paragraph2{
+  color:#626262;
+  padding: 2rem;
+  width: 35rem;
+  margin-left: auto;
+  order: 2;
+}
+
+.frontend-title{
+  margin-bottom: 2rem;
+  padding-left: 20rem;
+  padding-top: 8rem;
+  text-align: center;
+}
+
+.curlybracepic{
+  margin-left: 15rem;
+  margin-top: -170px;
+  position: relative;
+  bottom: 290px;
+}

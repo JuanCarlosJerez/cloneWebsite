@@ -63,6 +63,7 @@ body{
   font-weight: 300;
 }
 
+
 .paragraph1{
   color:#626262;
   padding: 2rem;
@@ -114,4 +115,39 @@ body{
   margin-top: -170px;
   position: relative;
   bottom: 290px;
+}
+
+.getconnected{
+  background: #00c1af;
+  height: 27rem;
+}
+
+
+
+.socialSubTitle{
+  font-size: 4rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  color: white;
+  padding-left: 23rem;
+  position: relative;
+  top: 9rem;
+}
+
+
+.socialList{
+  list-style-type: none;
+  font-size: 1.5rem;
+  column-count:2;
+  width: 21rem;
+  padding-left: 2rem;
+  padding-top: 1rem;
+  color: white;
+  margin-left: 25rem;
+  margin-top: 8rem;
+}
+
+.connectsize{
+  /* font-size: 1.5rem; */
+  font-weight: 300;
 }
